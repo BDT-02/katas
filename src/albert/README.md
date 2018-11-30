@@ -1,0 +1,1 @@
+All python exercises here :P
