@@ -8,6 +8,6 @@ def area_of_circle(r):
         return 0
 
 
-radio = float(input("Radio is: "))
+radio = float(raw_input("Radio is: "))
 
-print("Area of circle is: ", area_of_circle(radio))
+print("Area of circle is: " + str(area_of_circle(radio)))

@@ -1,4 +1,4 @@
-def days_in_month(month):
+def days_in_month(m):
 
     switch = {
         "January": 31,
@@ -15,14 +15,14 @@ def days_in_month(month):
         "December": 31
     }
 
-    return switch.get(month.capitalize(), None)
+    return switch.get(m.capitalize(), None)
 
 
-month = input("Enter the month: ")
+month = str(raw_input("Enter the month: "))
 
 days = days_in_month(month)
 
 if days:
-    print(month, " has ", days_in_month(month), " days")
+    print(month + " has " + str(days_in_month(month)) + " days")
 else:
-    print(month, " doesn't exists!!")
+    print(month + " doesn't exists!!")

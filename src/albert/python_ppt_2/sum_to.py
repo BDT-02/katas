@@ -7,6 +7,6 @@ def sum_to(num):
     return sum_result
 
 
-val = int(input("Enter value: "))
+val = int(raw_input("Enter value: "))
 
-print("Sum of all integer are: ", sum_to(val))
+print("Sum of all integer are: " + str(sum_to(val)))
