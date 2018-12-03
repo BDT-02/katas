@@ -60,3 +60,39 @@ if ( id(value_1) == id(value_2) ):
    print("Line 2 - a and b have same identity")
 else:
    print("Line 2 - a and b do not have same identity")
+
+ #Create a function that receive 3 arguments: 2 numbers 1 operations According the operation defined the expected
+# result need to be printed.For example:operatio *,numbers: 5 6 perform_operation(*,5,6)=>30
+
+
+
+
+
+print('insert an operator:')
+print('insert the first number:')
+print('insert the second number:')
+
+
+
+
+
+
+
+#def operation(a,b,operator):
+  #  if (operator=="*"):
+        #print(a,"*",b,"=",a*b)
+    #elif (operator=="+"):
+        #print(a,"+",b,"=",a+b)
+   # elif (operator=="-"):
+       # print(a,"-",b,"=",a-b)
+   # elif (operator=="/"):
+      #  if (a>b):
+            #print(a,"/",b,"=",a/b)
+        #else:
+           # print(b,"/",a,"=",b/a)
+
+
+#operation(a,b,"+")
+#operation(a,b,"-")
+#operation(a,b,"*")
+#operation(a,b,"/")
