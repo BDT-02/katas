@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d8b24c-c776-4c6f-a53d-c2cd4370ff20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/alex/Day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/alex/Day1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bruno/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/bruno/readme.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/alex/Day1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="309">
+              <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -217,12 +218,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543806562181</updated>
       <workItem from="1543806564305" duration="2902000" />
-      <workItem from="1543842255047" duration="2856000" />
+      <workItem from="1543842255047" duration="3647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5758000" />
+    <option name="totallyTimeSpent" value="6549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -285,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alex/Day1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="309">
+          <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
         </state>
       </provider>
     </entry>
