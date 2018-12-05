@@ -40,7 +40,7 @@ def sum_to(n):
 def day_in_month(month):
     if (month== "Januar" or month== "March"  or month == "March" or month == "July" or month == "August" or month == "October" or month == "December"):
         print( month, " has ", 31, "days")
-    elif (month == "April" or month == "June" or month == "September" or month == "Nobember"):
+    elif (month == "April" or month == "June" or month == "September" or month == "November"):
         print( month, " has ", 30, "days")
     elif (month== "February"):
         print( month, " has ",28, "days")
