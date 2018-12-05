@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d8b24c-c776-4c6f-a53d-c2cd4370ff20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bruno/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/bruno/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alex/Day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/alex/Day1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +13,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/katas$Practice1.coverage" NAME="Practice1 Coverage Results" MODIFIED="1543808002122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cinthya" />
     <SUITE FILE_PATH="coverage/katas$Practice2.coverage" NAME="Practice2 Coverage Results" MODIFIED="1543809518156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cinthya" />
-    <SUITE FILE_PATH="coverage/katas$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1543845334234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/alex" />
+    <SUITE FILE_PATH="coverage/katas$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1544013839628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/alex" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -22,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/alex/PPT2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -30,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/alex/Day1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+            <state relative-caret-position="326">
+              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
             </state>
           </provider>
         </entry>
@@ -40,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/alex/PPT3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
-              <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+              <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -89,11 +88,6 @@
             <path>
               <item name="katas" type="b2602c69:ProjectViewProjectNode" />
               <item name="katas" type="462c0819:PsiDirectoryNode" />
-              <item name="cinthya" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="katas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -105,8 +99,7 @@
             <path>
               <item name="katas" type="b2602c69:ProjectViewProjectNode" />
               <item name="katas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bruno" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,12 +211,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543806562181</updated>
       <workItem from="1543806564305" duration="2902000" />
-      <workItem from="1543842255047" duration="3647000" />
+      <workItem from="1543842255047" duration="5670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6549000" />
+    <option name="totallyTimeSpent" value="8572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -273,21 +266,21 @@
     <entry file="file://$PROJECT_DIR$/src/alex/PPT2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alex/PPT3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alex/Day1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        <state relative-caret-position="326">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>

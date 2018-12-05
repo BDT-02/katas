@@ -67,10 +67,21 @@ else:
 
 
 
+operator = input('insert an operator:')
+a = input('Insert the first number')
+b = input('Insert the second number')
+if (operator=="+"):
+    print(a,"+",b,"=",a+b)
+elif (operator=="*"):
+    print(a,'*',b,'=',a*b)
+elif (operator=="-"):
+    print(a,'-',b,'=',a-b)
+elif (operator=="/"):
+    if (a>b):
+        print(a,"/",b,"=",a/b)
+    else:
+        print(b,"/",a,"=",b/a)
 
-print('insert an operator:')
-print('insert the first number:')
-print('insert the second number:')
 
 
 
