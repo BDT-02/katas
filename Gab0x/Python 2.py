@@ -47,7 +47,7 @@ print("Good bye!")
 
 counts = 0
 while counts < 5:
-    print(str(counts) + " is less than 5")
+    print("%d is less than 5" % counts)
     counts = counts + 1
 else:
     print(str(counts) + " is not less than 5")
@@ -56,3 +56,9 @@ flag = 0
 while (flag):
     print('Given flag is really true!')
 print("Good bye!")
+
+
+genre = ['pop', 'rock', 'jazz']
+# iterate over the list using index
+for i in range(len(genre)):
+    print("I like %s" % genre[i])
