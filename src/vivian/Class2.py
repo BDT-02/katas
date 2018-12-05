@@ -1,5 +1,10 @@
 #Practice 1
-a=20
-b=2
-suma=a+b
-print suma
+#Exercise 1
+num = 15
+if (num == 15):
+    print ("The number %d is impar" %(num))
+else:
+    print ("The number %d is not par" % (num))
+
+#Exercise 2
+
