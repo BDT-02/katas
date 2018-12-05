@@ -7,4 +7,4 @@ else:
     print ("The number %d is not par" % (num))
 
 #Exercise 2
-
+num
