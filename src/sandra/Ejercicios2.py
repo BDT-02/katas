@@ -15,6 +15,7 @@ while (count < 9):
 
 print("Good bye!")
 
+test = None
 
 numbers = [6, 5, 3, 8, 4, 2, 5, 4, 11]
 sum = 0
