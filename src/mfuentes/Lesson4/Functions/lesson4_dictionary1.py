@@ -58,6 +58,7 @@ def value_exist(dic):
         else:
             print("No, " + value + " value does not exists in dict")
 
+
 #7. Use the dictionary as a Global variable to be used in all fucntions.
 
 dicci()
