@@ -1,6 +1,7 @@
 urls="http://www.google.com  Hola Mundo http://www.facebook.com http://www.gmail.com "
 sentence="Hello this is a test for a replace function"
 message1 = []
+
 def find_Url():
     print (len(urls))
     url=urls.split(" ")
@@ -27,11 +28,11 @@ def count_letters():
     example= raw_input("Introduce a sentence")
     letters = {}
     for character in example.lower():
-        if letters.has_key(character):
+        if (letters.has_key(character) and character!=" "):
             letters[character] = letters[character] + 1
-        else:
+        elif character!=" ":
             letters[character] = 1
-
+    sorted(letters,key=str)
     print(letters)
 
 
