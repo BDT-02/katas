@@ -1,7 +1,16 @@
+/.idea/
 .idea/
+<<<<<<< HEAD
 <<<<<<< HEAD
 *.pyc
 =======
 
 *.pyc
 >>>>>>> 930aa3fcc02d7db67bbc7bf65f7b2b82c2ca9f36
+=======
+
+
+*.pyc
+
+5
+>>>>>>> 4284ee1921f6092edaff344de943ccb7bba7def0
