@@ -15,10 +15,9 @@ while (count < 9):
 
 print("Good bye!")
 
-test = None
 
 numbers = [6, 5, 3, 8, 4, 2, 5, 4, 11]
-sum = 0
+sum = 1
 # iterate over the list
 for val in numbers:
     sum = sum+val
