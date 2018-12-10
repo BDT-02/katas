@@ -1,18 +1,34 @@
 
 #PRACTICE
 #1
-#Suppose any line of text can contain at most one url that starts with “http://” and ends at the
+# Suppose any line of text can contain at most one url that starts with =http://= and ends at the
 #       next space in the line. Write a fragment of code to extract and print the full url if it is present.
+
+# Using the regular expression
+
+import re
+
+def Find(string):
+    url = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\), ])+', string)
+    return url
+string = 'https://github.com this is a test http://www.jalasoft.com'
+print("Urls: ", Find(string))
 
 
 #2
 #Write a function replace(s, old, new) that replaces all occurrences of old with new in a string s:
 
-    #replace("Mississippi", "i", "I") == "MIssIssIppI"
-    #song = "I love spom! Spom is my favorite food.Spom, spom, yum!"
-    # replace(s, "om", "am") == "I love spam! Spam is my favorite food. Spam,spam, yum!"
-    #replace(s, "o", "a") == "I lave spam! Spam is my favarite faad. Spam,spam, yum!"
-#
+
+del replace("word", "a", "b")
+
+
+    replace("Mississippi", "i", "I") # == "MIssIssIppI"
+    song = "I love spom! Spom is my favorite food.Spom, spom, yum!"
+
+replace("Mississippi", "i", "I") # == "MIssIssIppI"
+replace(s, "om", "am") # == "I love spam! Spam is my favorite food. Spam,spam, yum!"
+replace(s, "o", "a") #== "I lave spam! Spam is my favarite faad. Spam,spam, yum!"
+
 
 #3
 #Function 1:
@@ -29,7 +45,7 @@
 #Write a program that reads a string and returns a table of the letters of the alphabet in alphabetical
 #    order which occur in the string together with the number of times each letter occurs.
 #    Case should be ignored. A sample output of the program when the user enters the data
-#     “ThiS is String with Upper and lower case Letters”, would look this this =>
+#    =ThiS is String with upper and lower case Letters=, would look this this =>
 
 #a 2
 #c 1

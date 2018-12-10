@@ -64,46 +64,17 @@ else:
  #Create a function that receive 3 arguments: 2 numbers 1 operations According the operation defined the expected
 # result need to be printed.For example:operatio *,numbers: 5 6 perform_operation(*,5,6)=>30
 
+print("insert the first number:")
+a = input()
+print("insert the second number:")
+b = input()
+print("Insert the operator:")
+c = str(input())
 
-
-
-operator = input('insert an operator:')
-a = input('Insert the first number')
-b = input('Insert the second number')
-if (operator=="+"):
-    print(a,"+",b,"=",a+b)
-elif (operator=="*"):
-    print(a,'*',b,'=',a*b)
-elif (operator=="-"):
-    print(a,'-',b,'=',a-b)
-elif (operator=="/"):
-    if (a>b):
-        print(a,"/",b,"=",a/b)
+def perform_oper(c, a, b):
+    if(c=="+"):
+        print("The sum is:", a+b)
     else:
-        print(b,"/",a,"=",b/a)
+        print("test")
 
-
-
-
-
-
-
-
-#def operation(a,b,operator):
-  #  if (operator=="*"):
-        #print(a,"*",b,"=",a*b)
-    #elif (operator=="+"):
-        #print(a,"+",b,"=",a+b)
-   # elif (operator=="-"):
-       # print(a,"-",b,"=",a-b)
-   # elif (operator=="/"):
-      #  if (a>b):
-            #print(a,"/",b,"=",a/b)
-        #else:
-           # print(b,"/",a,"=",b/a)
-
-
-#operation(a,b,"+")
-#operation(a,b,"-")
-#operation(a,b,"*")
-#operation(a,b,"/")
+perform_oper(c, a, b)
