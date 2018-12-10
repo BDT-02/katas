@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d8b24c-c776-4c6f-a53d-c2cd4370ff20" name="Default Changelist" comment="new exercise">
-      <change afterPath="$PROJECT_DIR$/src/sandra/Exercise2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sandra/Exercise5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sandra/Exercise5_2.py" afterDir="false" />
+    <list default="true" id="58d8b24c-c776-4c6f-a53d-c2cd4370ff20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sandra/Exercise3_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinthya/Practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/cinthya/Practice1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sandra/Ejercicios2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sandra/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sandra/Class2_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testpady1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sandra/Exercise1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testpady1/testpady1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testpady2/testpady2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,26 +15,18 @@
     <SUITE FILE_PATH="coverage/katas$Exercise2_1.coverage" NAME="Exercise2_1 Coverage Results" MODIFIED="1544417510445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sandra" />
     <SUITE FILE_PATH="coverage/katas$Exercise5_2.coverage" NAME="Exercise5_2 Coverage Results" MODIFIED="1544413999359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sandra" />
     <SUITE FILE_PATH="coverage/katas$Practice2.coverage" NAME="Practice2 Coverage Results" MODIFIED="1544414821833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cinthya" />
+    <SUITE FILE_PATH="coverage/katas$Exercise3_1.coverage" NAME="Exercise3_1 Coverage Results" MODIFIED="1544418090942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sandra" />
     <SUITE FILE_PATH="coverage/katas$Exercise1_1.coverage" NAME="Exercise1_1 Coverage Results" MODIFIED="1544414283803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sandra" />
     <SUITE FILE_PATH="coverage/katas$Practice1.coverage" NAME="Practice1 Coverage Results" MODIFIED="1544414157342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cinthya" />
-    <SUITE FILE_PATH="coverage/katas$Class2_practice.coverage" NAME="Class2_practice Coverage Results" MODIFIED="1544414368803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sandra" />
+    <SUITE FILE_PATH="coverage/katas$Class2_practice.coverage" NAME="Class2_practice Coverage Results" MODIFIED="1544418085021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sandra" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cinthya/Practice2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="19" selection-end-line="22" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sandra/Exercise2_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -68,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sandra/Exercise5_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="323">
               <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
@@ -77,8 +61,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sandra/Exercise5_1.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sandra/Exercise3_1.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -107,13 +100,14 @@
         <option value="$PROJECT_DIR$/src/sandra/Class2_practice.py" />
         <option value="$PROJECT_DIR$/cinthya/Practice2.py" />
         <option value="$PROJECT_DIR$/src/sandra/Exercise2_1.py" />
+        <option value="$PROJECT_DIR$/src/sandra/Exercise3_1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="357" />
-    <option name="width" value="1386" />
-    <option name="height" value="920" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -130,11 +124,6 @@
             <path>
               <item name="katas" type="b2602c69:ProjectViewProjectNode" />
               <item name="katas" type="462c0819:PsiDirectoryNode" />
-              <item name="cinthya" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="katas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -142,12 +131,6 @@
               <item name="katas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sandra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="katas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="yury" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise2_1">
+  <component name="RunManager" selected="Python.Exercise3_1">
     <configuration name="Class2_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise3_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,12 +232,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cinthya" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/sandra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cinthya/Practice1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/sandra/Exercise3_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise3_1" />
+        <item itemvalue="Python.Class2_practice" />
         <item itemvalue="Python.Exercise2_1" />
         <item itemvalue="Python.Practice2" />
-        <item itemvalue="Python.Class2_practice" />
         <item itemvalue="Python.Exercise1_1" />
-        <item itemvalue="Python.Practice1" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +289,7 @@
       <option name="presentableId" value="Default" />
       <updated>1543806562181</updated>
       <workItem from="1543806564305" duration="2902000" />
-      <workItem from="1544021502130" duration="14494000" />
+      <workItem from="1544021502130" duration="15052000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1544021590932</created>
@@ -315,22 +298,29 @@
       <option name="project" value="LOCAL" />
       <updated>1544021590932</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding new tasks">
+      <created>1544417756856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544417756856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17396000" />
+    <option name="totallyTimeSpent" value="17954000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="238" y="0" width="924" height="613" extended-state="0" />
+    <frame x="633" y="0" width="653" height="687" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25462964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37099496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38045737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46714032" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,7 +343,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="adding new tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new tasks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/sandra/Ejercicio1_1.py">
@@ -365,20 +356,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/testpady2/testpady2.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sandra/Exercise5_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sandra/Exercise5_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/yury/taskLesson1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -420,8 +397,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sandra/Exercise2_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sandra/Exercise5_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sandra/Exercise5_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sandra/Exercise3_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
