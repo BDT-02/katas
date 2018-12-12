@@ -30,3 +30,7 @@ genre = ['pop', 'rock', 'jazz']
 # iterate over the list using index
 for i in range(len(genre)):
     print("I like", genre[i])
+
+#Practice 1
+text= "This is the Spotify URL: https://www.spotify.com/bo/ you can click for more information"
+print (str(text[24:48]))
