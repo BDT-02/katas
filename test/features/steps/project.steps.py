@@ -1,9 +1,27 @@
 from behave import given, when, then
+import requests
+import json
+import yaml
+from pprint import pprint
 
+config = yaml.load(open("config.yml"))
 
 @given(u'I create a project')
 def step_impl(context):
-    print(u'STEP: Given I create a project')
+    #url = 'https://www.pivotaltracker.com/services/v5/projects'
+    url = config["api"]["host"] + "/projects"
+    headers = {'X-TrackerToken': config["api"]["token"]}
+
+    projects = requests.get(url, headers=headers)
+    pj = json.loads(projects.text)
+    pprint(pj)
+
+    print("CREATE PROJECT")
+    data = {"name": "project-VZ"}
+    new_project = requests.post(url, data=data, headers=headers)
+    pj = json.loads(new_project.text)
+    pprint(pj)
+    pprint(pj['id'])
 
 
 @when(u'I edit a project')
@@ -151,8 +169,8 @@ def step_impl(context):
     print(u'STEP: When I enter my PIN')
 
 
-#@when(u'I press "OK"')
-#def step_impl(context):
+# @when(u'I press "OK"')
+# def step_impl(context):
 #    print(u'STEP: When I press "OK"')
 
 

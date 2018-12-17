@@ -1,0 +1,7 @@
+# top level
+api:
+#options in level
+  admin_user: vzamorano
+  admin_pass: Shadow78844716*
+  host: https://www.pivotaltracker.com/services/v5
+  token: eca773db1a05aa626fea42c73f6384d2
