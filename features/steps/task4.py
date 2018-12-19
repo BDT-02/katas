@@ -1,6 +1,9 @@
 from behave import *
 
+from src.utils.LoggerHandler import LoggerHandler
+from src.utils.config_handler import ConfigHandler
 
+logger = LoggerHandler.get_instance()
 @given("I have pushed my card in the slot")
 def step_impl1(context):
     """
@@ -50,6 +53,7 @@ def step_impl(context):
     """
     :type context: behave.runner.Context
     """
+    logger.info("This is a test")
     for row in context.table:
         print row
         print 'name: ' + row['user']

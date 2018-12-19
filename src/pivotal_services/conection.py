@@ -5,8 +5,8 @@ from features.steps.environment import generic_data
 
 class ConnectionPivotal:
     def __init__(self):
-        self.url = generic_data['app']['url']
-        self.api_token = generic_data['app']['api_token']
+        self.url = generic_data['api']['url']
+        self.api_token = generic_data['api']['api_token']
         self.headers = {'X-TrackerToken': self.api_token}
 
     def post(self, service, data):
