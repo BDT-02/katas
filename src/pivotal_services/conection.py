@@ -1,6 +1,6 @@
 import requests
 
-from test.feature.environment import generic_data
+from features.steps.environment import generic_data
 
 
 class ConnectionPivotal:

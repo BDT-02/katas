@@ -2,7 +2,7 @@ import os
 import yaml
 
 global info_dict
-generic_data = yaml.load(open('test/feature/config.yml'))
+generic_data = yaml.load(open('./config.yml'))
 
 
 def before_all(contex):
