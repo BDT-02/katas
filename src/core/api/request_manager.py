@@ -1,5 +1,5 @@
-from core.api.request_handler import RequestHandler
-from utils.property_handler import PropertyHandler
+from src.core.api.request_handler import RequestHandler
+from src.utils.config_handler import ConfigHandler
 
 
 class RequestManager:
@@ -10,6 +10,6 @@ class RequestManager:
         if RequestManager.__instance is None:
             RequestManager.__instance = RequestHandler()
             RequestManager.__instance.session.headers.update(
-                {"X-TrackerToken": PropertyHandler.get_instance().get_token(),
+                {"X-TrackerToken": ConfigHandler.get_config().get_token(),
                  "Content-Type": "application/json"})
         return RequestManager.__instance

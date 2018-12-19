@@ -21,5 +21,11 @@ def i_verify_project_schema():
     BuiltIn().should_be_true(is_schema_valid, "Project Schema failed due to: {}".format(schema_failure_reason))
 
 
-def i_delete_all_projects():
+def i_delete_all_project
     project_service.delete_all_projects()
+    
+    
+    
+To install:
+jsonschema
+simplejson

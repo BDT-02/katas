@@ -1,5 +1,5 @@
 from abc import ABCMeta
-from core.api.request_manager import RequestManager
+from src.core.api.request_manager import RequestManager
 
 
 class PivotalServices:

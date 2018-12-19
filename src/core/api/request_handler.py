@@ -1,16 +1,18 @@
 import requests
 from requests.adapters import HTTPAdapter
-from robot.api import logger
 from urllib3 import Retry
 import json
-from utils.property_handler import PropertyHandler
+from src.utils.config_handler import ConfigHandler
+from src.utils.LoggerHandler import LoggerHandler
+
+logger = LoggerHandler.get_instance()
 
 
 class RequestHandler:
 
     def __init__(self):
         self.session = requests.Session()
-        self.main_url = PropertyHandler.get_instance().get_base_api_url()
+        self.main_url = ConfigHandler.get_config().get_base_api_url()
 
     def post_request(self, endpoint, body):
         logger.info("RequestHandler:: POST  {}, {}, {}".format(endpoint, json.dumps(body), self.session.headers))

@@ -1,10 +1,5 @@
 api:
   #options in level
-  admin_user: admin
-  admin_pass: admin123
-  host: todo.ly
-  port: 8090
-  rootPath: /api
-  url: https://www.pivotaltracker.com/services/v5/projects
-  api_token: 51eef4a73710a556f27a3dc13866884b
+  base_url: https://www.pivotaltracker.com/services/v5/
+  token: 10a341fc461eedfd9162045590884d00
   log_path: .\pivotal_bdt.log
